@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+[![Static Badge](https://img.shields.io/badge/Bilibili-%E8%B6%85%E5%87%A0%E4%BD%95%E5%86%B0%E7%B2%BE-FF6699)]([https://www.bilibili.com](https://space.bilibili.com/281099771))
+
+- 🔭 I’m currently working on Computer Science
+- 🌱 I’m currently learning Computer Science
+- 👯 I’m looking to collaborate on Fun Projects
+- 🤔 I’m looking for help with *ANYTHING*
+- 💬 Ask me about *ANYTHING*
+- 📫 How to reach me: cirno_baka@foxmail.com
+
 <!--
 **HyGeoIceFairy/HyGeoIceFairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
